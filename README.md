@@ -5,6 +5,8 @@ All the user has to do is input about how much they have currently made in the m
 
 EXAMPLE:
 
-How much did you save this past month? 300
-How much do you want to save this month? 500
-You have saved 60.0% of your monthly goal. 
+How much did you save this past month? 300. 
+
+How much do you want to save this month? 500. 
+
+You have saved 60.0% of your monthly goal.  
